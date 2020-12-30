@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "name": "book",
+      "type": "java.lang.String",
+      "description": "Description for book."
+    },
+    {
+      "name": "book.name",
+      "type": "java.lang.String",
+      "description": "Description for book.name."
+    },
+    {
+      "name": "book.author",
+      "type": "java.lang.String",
+      "description": "Description for book.author."
+    },
+    {
+      "name": "book.price",
+      "type": "java.lang.String",
+      "description": "Description for book.price."
+    }
+  ] }
